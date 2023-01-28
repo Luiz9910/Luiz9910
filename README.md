@@ -18,7 +18,7 @@ Tecnologias que uso no meu dia
 <div style="display:inline-block">
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
-<div style="display:inline-block">
+<div style="display:block">
   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 <div style="display:inline-block">
