@@ -20,4 +20,4 @@ Tecnologias que uso no meu dia
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-Sou apaixonado por tecnologia, me considero uma pessoa ágil e calmo. 
+Sou apaixonado por tecnologia, me considero uma pessoa ágil e calmo. Atualmente estudando Nodejs.
