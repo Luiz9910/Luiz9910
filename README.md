@@ -4,8 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-95942222b/)
 
 ![Luiz Github stats](https://github-readme-stats.vercel.app/api?username=Luiz9910&show_icons=true&theme=radical)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz9910&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz9910&layout=compact&theme=radical)
  
 Tecnologias que uso no meu dia
 
