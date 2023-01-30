@@ -21,4 +21,4 @@ Tecnologias que uso no meu dia
 
 <br>
 
-Sou apaixonado por tecnologia, me considero uma pessoa ágil e calmo. Atualmente estudando Nodejs.
+Sou apaixonado por tecnologia, me considero uma pessoa ágil e calmo. Atualmente estudando Nodejs..
