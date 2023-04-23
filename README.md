@@ -1,4 +1,4 @@
-### Olá! Eu sou Luiz Felipe. Desenvolvedor Full-stack NodeJs
+### Olá! Eu sou Luiz Felipe. Desenvolvedor Full-stack JavaScript
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-95942222b/)
 
